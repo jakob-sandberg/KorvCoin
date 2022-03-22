@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap");
 
 .header-container {
   margin-left: auto;
@@ -31,7 +31,7 @@
 .header-head h1 {
   display: flex;
   justify-content: center;
-  font-family: "Anton", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
   color: #fff;
   font-size: 12vw;
   font-weight: 900;
