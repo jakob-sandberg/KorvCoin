@@ -1,0 +1,17 @@
+.navbar {
+  position: fixed;
+  width: 100%;
+  background-color: rgb(51, 54, 70);
+  color: white;
+  height: 10vh;
+}
+
+.korv {
+  height: 6vw;
+}
+
+.navbarText {
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+}
