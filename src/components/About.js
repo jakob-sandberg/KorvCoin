@@ -16,6 +16,7 @@ const About = () => {
       <div className="container1">
         <div className="box">
           <img
+            alt="bild"
             className="pancake"
             url={image1}
             src={image1}
@@ -29,19 +30,19 @@ const About = () => {
           </h4>
         </div>
         <div className="box">
-          <img className="price" url={image2} src={image2} />
+          <img alt="bild" className="price" url={image2} src={image2} />
           <h2>Price per Korv</h2>
           <p className="card-price">$0.00000251303</p>
         </div>
       </div>
       <div className="container2">
         <div className="box">
-          <img className="bank" url={image3} src={image3} />
+          <img alt="bild" className="bank" url={image3} src={image3} />
           <h2>Total supply:</h2>
           <h4>5,000,000</h4>
         </div>
         <div className="box">
-          <img className="cap" url={image4} src={image4} />
+          <img alt="bild" className="cap" url={image4} src={image4} />
           <h2>Market Cap:</h2>
           <h4>$12.6960</h4>
         </div>

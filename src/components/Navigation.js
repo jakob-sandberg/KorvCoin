@@ -3,7 +3,7 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link } from "react-scroll";
 import image from "../images/korv.png";
 import "../style/Navbar.css";
 
@@ -20,7 +20,7 @@ const Navigation = () => {
           offset={-70}
           duration={500}
         >
-          <img className="korv" url={image} src={image} />
+          <img alt="bild" className="korv" url={image} src={image} />
         </Link>
 
         <Navbar.Toggle aria-controls="basic-navbar-nav" />

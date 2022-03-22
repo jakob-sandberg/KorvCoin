@@ -35,6 +35,7 @@ const Footer = () => {
         <div className="links-container">
           <div className="links">
             <img
+              alt="bild"
               className="img23"
               url={image1}
               src={image1}
@@ -43,6 +44,7 @@ const Footer = () => {
           </div>
           <div className="links">
             <img
+              alt="bild"
               className="img23"
               url={image2}
               src={image2}
@@ -55,6 +57,7 @@ const Footer = () => {
           </div>
           <div className="links">
             <img
+              alt="bild"
               className="img23"
               url={image3}
               src={image3}

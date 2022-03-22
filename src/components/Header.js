@@ -18,7 +18,7 @@ const Header = () => {
 
         <div className="header-content">
           <div className="header-left-content">
-            <img url={image} src={image} />
+            <img alt="bild" url={image} src={image} />
           </div>
           <div className="header-right-content">
             <p>
