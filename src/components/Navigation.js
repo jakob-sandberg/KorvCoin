@@ -35,7 +35,7 @@ const Navigation = () => {
             offset={-70}
             duration={500}
           >
-            About
+            ABOUT
           </Link>
           <Link
             className="navbarText"
@@ -46,7 +46,7 @@ const Navigation = () => {
             offset={-70}
             duration={500}
           >
-            Contact
+            CONTACT
           </Link>
         </Navbar.Collapse>
       </Container>

@@ -12,7 +12,7 @@ const About = () => {
   };
 
   return (
-    <div className="about-container" id="aboutSection">
+    <div className="about-container">
       <div className="container1">
         <div className="box">
           <img
